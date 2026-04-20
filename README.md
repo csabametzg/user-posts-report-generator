@@ -2,6 +2,22 @@
 
 A simple Python automation script that fetches user and post data from a public API, connects the data, and generates reports in JSON, TXT, and CSV formats.
 
+## Quick Start
+
+```bash
+python user_posts_report.py
+```
+
+### 2. An example input
+
+```markdown
+Example:
+
+Enter user id:
+1
+```
+
+
 ## Features
 - Fetches users data from API
 - Fetches posts data from API
